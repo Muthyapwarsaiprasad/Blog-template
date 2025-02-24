@@ -95,6 +95,12 @@ a {
     font-weight: 200;
     font-size: 16px;
     color: #000000;
+
+.blog_body {
+    display: grid;
+    grid-template-columns: 1.5fr 0.7fr;
+    margin: 70px 0px;
+
 }
 
 .Feature {
